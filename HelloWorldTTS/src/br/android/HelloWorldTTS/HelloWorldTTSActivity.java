@@ -4,6 +4,8 @@ import com.google.tts.TTS;
 import android.app.Activity;
 import android.os.Bundle;
 
+//teste de commit do eclipse
+
 public class HelloWorldTTSActivity extends Activity {
 
 	private TTS myTts;
